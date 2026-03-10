@@ -1,2 +1,9 @@
+[web_servers]
 srv1@10.0.0.212
 srv2@10.0.0.175
+
+[db_servers]
+srv3@10.0.0.27
+
+[file_servers]
+srv4@10.0.0.134
