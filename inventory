@@ -7,3 +7,6 @@ srv3@10.0.0.27
 
 [file_servers]
 srv4@10.0.0.134
+
+[workstations]
+10.0.0.8
