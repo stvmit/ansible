@@ -3,7 +3,5 @@
 - hosts: all
   become: true
   gather_facts: false
-  tasks:
-
-  - name: sync time for all devices
-    command: timedatectl set-ntp true
+  roles:
+    - set_time
